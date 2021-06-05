@@ -1,7 +1,7 @@
 # EQalertID
 
 ## Source Data
-Earthquake data in this application is sourced from <a href="https://www.bmkg.go.id/" target="new">Badan Meteorologi, Klimatologi, dan Geofisika</a><br>
+Earthquake data in this application is sourced from <a href="https://data.bmkg.go.id/" target="new">Badan Meteorologi, Klimatologi, dan Geofisika</a><br>
 <p align="center">
   <a href="https://www.bmkg.go.id/" target="new"><img src="https://www.bmkg.go.id/asset/img/logo/logo-bmkg.png" alt="BMKG"/></a>
 </p>
