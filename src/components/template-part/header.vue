@@ -22,7 +22,7 @@
         target="_blank"
         text
       >
-        <span class="mr-2">Versi Terbaru</span>
+        <span class="mr-2">Update</span>
         <v-icon>mdi-github</v-icon>
       </v-btn>
     </v-app-bar>
